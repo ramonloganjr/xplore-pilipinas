@@ -1,4 +1,4 @@
-# Contributing to Xplore Philippines
+# Contributing to Xplore Pilipinas
 
 Thank you for your interest in contributing to Xplore Philippines! This document provides guidelines and instructions for contributing.
 
